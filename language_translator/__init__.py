@@ -1,0 +1,1 @@
+from language_translator.madlad_translator import MadladTranslator
